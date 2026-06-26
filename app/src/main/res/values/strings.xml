@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق إدارة القضايا</string>
+    
+    <!-- Navigation -->
+    <string name="nav_cases">القضايا</string>
+    <string name="nav_calendar">التقويم</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    
+    <!-- Case Details -->
+    <string name="case_number">رقم القضية</string>
+    <string name="client_name">اسم الموكل</string>
+    <string name="case_type">نوع القضية</string>
+    <string name="case_status">حالة القضية</string>
+    <string name="description">الوصف</string>
+    <string name="court_name">اسم المحكمة</string>
+    <string name="judge_name">اسم القاضي</string>
+    <string name="next_hearing">الجلسة القادمة</string>
+</resources>
